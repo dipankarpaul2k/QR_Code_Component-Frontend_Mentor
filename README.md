@@ -14,11 +14,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Screenshot
 
+![screenshot_desktop_view](https://github.com/dipankarpaul2k/QR_Code_Component-Frontend_Mentor/assets/136841290/9c445a5b-b193-4af1-b0b3-8f737edcbe63)
+
+
+![Screenshot_mobile_view](https://github.com/dipankarpaul2k/QR_Code_Component-Frontend_Mentor/assets/136841290/c9d80137-05b6-4d72-bbc7-81016b91936d)
 
 
 ## Links
 
-- [Solution URL](https://your-solution-url.com)
 - [Live Site URL](https://glowing-basbousa-145cba.netlify.app/)
 
 ## Built with
